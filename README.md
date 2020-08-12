@@ -1,4 +1,4 @@
-# Hive-1
+# Hive Project
 
 In this project you will be working with Hive. You will be writing a Hive script for each of the problems below. You will see the difference between solving these problems with Pig and solving them with Hive. Some of them may be easy, some may be harder.
 We will be using three files for this project. You have seen all of them in a previous project: Master.csv, Batting.csv and Fielding.csv. You must write a Hive script for each of the following problems. If there is a tie for any of the questions (e.g., number 3 may have multiple weights that are second most common), you should print out all of them. 
